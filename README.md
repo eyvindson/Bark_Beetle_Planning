@@ -2,14 +2,16 @@
 
 This work follows on scientific work for the draft article:
 
-Planning for bark beetle disturbance in production forests: A regional forest optimization case study in Norway by
-Kyle Eyvindson *a,b, Victor F. Strîmbu a, Joyce Machado Nunes Romeiro c, Tron Eid a, Annika Kangas d
+Planning for bark beetle disturbance in production forests: A regional forest optimization case study in Norway
+
+Kyle Eyvindsonᵃᵇ*, Victor F. Strîmbuᵃ, Joyce Machado Nunes Romeiroᶜ, Tron Eidᵃ, Annika Kangasᵈ
 
 *Author for correspondence
-a Faculty of Environmental Sciences and Natural Resource Management, Norwegian University of Life Sciences, P.O. Box 5003 NMBU 1432 Ås Norway
-b Department of Forest Sciences, Faculty of Agriculture and Forestry, University of Helsinki, P.O. Box 27, 00014 University of Helsinki
-c Division of Biotechnology and Plant Health, Norwegian Institute of Bioeconomy Research, Høgskoleveien 8, Ås 1433, Norway
-d Natural Resources Institute Finland (Luke), Yliopistokatu 6 B, FI-80100 Joensuu, Finland
+
+ᵃ Faculty of Environmental Sciences and Natural Resource Management, Norwegian University of Life Sciences, P.O. Box 5003 NMBU 1432 Ås Norway  
+ᵇ Department of Forest Sciences, Faculty of Agriculture and Forestry, University of Helsinki, P.O. Box 27, 00014 University of Helsinki  
+ᶜ Division of Biotechnology and Plant Health, Norwegian Institute of Bioeconomy Research, Høgskoleveien 8, Ås 1433, Norway  
+ᵈ Natural Resources Institute Finland (Luke), Yliopistokatu 6 B, FI-80100 Joensuu, Finland
 
 
 This repository provides a research-oriented environment for exploring **bark beetle disturbance simulations** and integrating them with **optimization-based forest planning**. It is designed to support experimentation, comparison of optimization approaches, and analysis of disturbance‑driven management decisions.
